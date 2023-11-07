@@ -24,11 +24,14 @@ body{
     border-radius: 1.5rem;
     flex: 0.5;
     margin: 1rem;
+    transition:all  500ms ease-out;
+}
+
+.card:hover{
+    border: 1px solid maroon;
 }
 
 .expand{
-    height: 100%;
-    width: 62vw;
     flex: 5;
 }
 
@@ -40,3 +43,9 @@ body{
     visibility: hidden;
 }
 
+.show{
+    visibility: visible;
+}
+.hide{
+    visibility: hidden;
+}
