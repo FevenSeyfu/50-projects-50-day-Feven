@@ -8,11 +8,11 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 
 ## Projects List
 
-### Day 1: [Expanding Cards](https://github.com/FevenSeyfu/50-projects-50-day-Feven/expanding-cards/)
+### Day 1: [Expanding Cards](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 -Day 1 - Expanding Cards : dynamic and visually appealing card layouts with HTML, CSS, and JavaScript.A list of image cards that expand on click.
-### Day 2: [Progress Steps](https://github.com/FevenSeyfu/50-projects-50-day-Feven/progress-steps/
+### Day 2: [Progress Steps](https://github.com/FevenSeyfu/50-projects-50-day-Feven/progress-steps)
 - Day 2 - Progress Steps : dynamic and visually appealing circles taking track of progress in respone to button click with HTML, CSS, and JavaScript
-### Day 3: [Rotating Navifation Animation](https://github.com/FevenSeyfu/50-projects-50-day-Feven/rotating-navigation-animation/
+### Day 3: [Rotating Navifation Animation](https://github.com/FevenSeyfu/50-projects-50-day-Feven/rotating-navigation-animation)
 - Day 3 - Rotating Navigation Animation :  A ui with close and open button with rotating animation to hide or show the Navigation menu built with HTML, CSS, and JavaScript
 
 ## Folder Structure
