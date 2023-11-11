@@ -24,6 +24,8 @@ body{
 
 .container.show-nav{
     transform: rotate(-20deg);
+    position: fixed;
+    top: 0;
 }
 
 .circle-container{
@@ -41,7 +43,7 @@ body{
     transition: transform 0.5s linear;
 }
 
-.container.show-nav.circle {
+.container.show-nav .circle {
     transform: rotate(-70deg);
 }
 
@@ -68,7 +70,7 @@ body{
 .circle button#close {
     top: 60%;
     transform: rotate(90deg);
-    transform-origin: top left;
+    transform-origin:top left;
 }
 
 .container.show-nav + nav li {
@@ -123,7 +125,7 @@ nav a:hover{
 }
 
 .content img{
-    width: 100%;
+    max-width: 100%;
 }
 
 .content{
