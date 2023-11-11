@@ -4,33 +4,30 @@ This repository documents my journey through the "50 Projects In 50 Days" challe
 
 ## Introduction
 
-I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights gained during this challenge. Each completed project will have its own folder containing project files and a separate README file with specific details and learnings.
+I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights gained during this challenge. Each completed project will have its own folder containing project files.
 
 ## Projects List
 
-### Day 1: [Project Name](Link to Project Folder)
-- Brief project description.
-- Link to live demo (if applicable).
-
-### Day 2: [Project Name](Link to Project Folder)
-- Brief project description.
-- Link to live demo (if applicable).
-
-... (Add descriptions and links for all 50 days)
+### Day 1: [Expanding Cards](https://github.com/FevenSeyfu/50-projects-50-day-Feven/expanding-cards/)
+-Day 1 - Expanding Cards : dynamic and visually appealing card layouts with HTML, CSS, and JavaScript.A list of image cards that expand on click.
+### Day 2: [Progress Steps](https://github.com/FevenSeyfu/50-projects-50-day-Feven/progress-steps/
+- Day 2 - Progress Steps : dynamic and visually appealing circles taking track of progress in respone to button click with HTML, CSS, and JavaScript
+### Day 3: [Rotating Navifation Animation](https://github.com/FevenSeyfu/50-projects-50-day-Feven/rotating-navigation-animation/
+- Day 3 - Rotating Navigation Animation :  A ui with close and open button with rotating animation to hide or show the Navigation menu built with HTML, CSS, and JavaScript
 
 ## Folder Structure
 
-The projects are organized in folders. Each project folder contains the code files and a separate README with details specific to that project.
+The projects are organized in folders. Each project folder contains the code files specific to that project.
 
 ## About Me
 
-Introduce yourself briefly, mention your passion for coding, and your goals with this challenge.
+Hi, I'm Feven, a junior full-stack developer with a passion for coding. Experienced in remote software development, I've delivered robust applications and honed my skills for the last 4 to 5 years through interships and remote collaberation. 
 
 ## Connect with Me
 
-- [GitHub](Link to your GitHub profile)
-- [LinkedIn](Link to your LinkedIn profile)
-- [Portfolio/Personal Website](Link to your portfolio/website)
+- [GitHub](https://github.com/FevenSeyfu)
+- [LinkedIn](https://www.linkedin.com/in/fevenseyfu/)
+- [Portfolio/Personal Website](https://fevenseyfu.github.io/Feven-portfolio-v1/)
 
 ## Acknowledgements
 
