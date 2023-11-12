@@ -8,7 +8,7 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 
 
 <details>
-<summary> ## Projects List</summary>
+<summary>Projects List</summary>
 
 ### Day 1: [Expanding Cards](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Dynamic and visually appealing card layouts with HTML, CSS, and JavaScript.A list of image cards that expand on click.
