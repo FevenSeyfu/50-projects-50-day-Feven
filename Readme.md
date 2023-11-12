@@ -6,7 +6,9 @@ This repository documents my journey through the "50 Projects In 50 Days" challe
 
 I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights gained during this challenge. Each completed project will have its own folder containing project files.
 
-## Projects List
+
+<details>
+<summary> ## Projects List</summary>
 
 ### Day 1: [Expanding Cards](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Dynamic and visually appealing card layouts with HTML, CSS, and JavaScript.A list of image cards that expand on click.
@@ -19,6 +21,8 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 
 ### Day 4: [Hidden Search  Widget](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Hidden Search  Widget : A Search bar widget with transition where the search input is only visible and on focus on click and hidden on click of the icon built with HTML, CSS, and JavaScript.
+
+</details>
 
 ## Folder Structure
 
