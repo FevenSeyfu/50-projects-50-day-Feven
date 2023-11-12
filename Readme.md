@@ -6,7 +6,8 @@ This repository documents my journey through the "50 Projects In 50 Days" challe
 
 I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights gained during this challenge. Each completed project will have its own folder containing project files.
 
-##Projects List
+## Projects List 
+
 <details>
 <summary>Projects List</summary>
 
