@@ -30,6 +30,11 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 5: [Blurry Loading](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Blurry Loading : A Blurry image loading on page reload with counting percentile built with HTML, CSS, and JavaScript.
 - Focus point : CSS filter property and background image
+
+### Day 6: [Scroll Animation](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Scroll Animation : A scroll animation with container boxes where boxes slide to be visible on scroll, for even numbered boxes slide from left and odd from right, built with HTML, CSS, and JavaScript.
+- Focus point : CSS transfrom and transition,JS on scroll event and getBoundingClientRect function
+
 </details>
 
 ## Folder Structure
