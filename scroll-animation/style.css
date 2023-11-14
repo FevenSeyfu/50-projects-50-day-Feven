@@ -13,6 +13,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    overflow-x: hidden;
 }
 
 h1{
@@ -36,7 +37,7 @@ h1{
 
 /* scroll the even boxed from left */
 .box:nth-of-type(even){
-    transform: translateX(-400);
+    transform: translateX(-400%);
 }
 
 .box.show{
