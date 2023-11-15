@@ -35,6 +35,9 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 - Scroll Animation : A scroll animation with container boxes where boxes slide to be visible on scroll, for even numbered boxes slide from left and odd from right, built with HTML, CSS, and JavaScript.
 - Focus point : CSS transfrom and transition,JS on scroll event and getBoundingClientRect function
 
+### Day : [Split Landing page](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Split Landing page : A Landing page with split cards that enlarge or minimize on hover with smooth transitions, built with HTML, CSS, and JavaScript.
+- Focus point : CSS transfrom and transition,JS mouseenter and mouseleave events
 </details>
 
 ## Folder Structure
