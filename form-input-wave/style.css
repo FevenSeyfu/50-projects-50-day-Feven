@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+:root {
+    --primary-blue: #2a4e6c ;
+    --secondary-blue: #4682b4;
+    --light-blue: #add8e6
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--secondary-blue);
+    font-family: 'Muli', sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    background-color: var(--primary-blue);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: 55vw;
+    height: 70vh;
+    border-radius: 0.5rem;
+    padding: 2.5rem;
+}
+h2{
+    text-align: center;
+    padding: 0.5rem auto;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.btn{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: var(--light-blue);
+    border-radius: 0.5rem;
+    border: 0.2px;
+    margin: 2rem 0;
+}
+
+.btn:focus{
+    outline: 0;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+
+label{
+    margin: 0.5rem 0;
+    font-weight: 400;
+    pointer-events: none;
+}
+
+.input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    color: #fff;
+}
+
+
+.input:focus, .input:valid{
+    outline: 0;
+    border-bottom-color: var(--light-blue);
+}
+.link{
+    text-decoration: none;
+    color: var(--light-blue);
+}
+
+label span{
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.input:focus + label span,
+.input:valid + label span {
+  color: var(--light-blue);
+  transform: translateY(-30px);
+}
