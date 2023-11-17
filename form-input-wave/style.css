@@ -74,8 +74,6 @@ h2{
 }
 
 .form-control  label{
-    /* margin: 0.5rem 0;
-    font-weight: 400; */
     pointer-events: none;
     position: absolute;
     top: 0.5rem;
