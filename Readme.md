@@ -41,8 +41,11 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 
 ### Day 8: [Form Wave Animation](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Form Wave Animation : A login form ui that creates wavy animation and change colors of the labels when input field is active or in focus, built with HTML, CSS, and JavaScript.
-- Focus point : CSS transfrom and transition,JHTML form
+- Focus point : CSS transfrom and transition,HTML form
 
+### Day 9: [Sound Board](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Sound Board : A clickable card that plays an audio depending on the clicked sound name, built with HTML, CSS, and JavaScript.
+- Focus point : HTML audio element, JS event handling and play()
 </details>
 
 ## Folder Structure
