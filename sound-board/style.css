@@ -18,3 +18,25 @@ body{
     overflow: hidden;
     color: #fff;
 }
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-gap: 1rem;
+    box-sizing: border-box;
+    width: 70vw;
+    height: 200px;
+    margin: 20% auto;
+}
+
+.card{
+    background-color: var(--secondary-secondary);
+    width: 7rem;
+    height: 4rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.card h3{
+    margin: 1rem auto;
+}
