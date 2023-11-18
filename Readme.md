@@ -46,6 +46,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 9: [Sound Board](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Sound Board : A clickable card that plays an audio depending on the clicked sound name, built with HTML, CSS, and JavaScript.
 - Focus point : HTML audio element, JS event handling and play()
+
+### Day 10: [Dad Jokes](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Dad Jokes: An app that fetches and displays random jokes from an api with a click of a button , built with HTML, CSS, and JavaScript.
+- Focus point : Javascript -event handling, Api call, Fetch()
 </details>
 
 ## Folder Structure
