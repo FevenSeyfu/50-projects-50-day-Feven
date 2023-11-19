@@ -23,9 +23,10 @@ body{
 
 .key{
     background-color: #fff;
-    padding: 1rem;
+    padding: 1rem 2rem;
+    margin: 0.5rem;
     position: relative;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    box-shadow: rgba(1, 0, 0, 0.1) 1px 4px 12px;
     display: inline-flex;
     align-items: center;
     flex-direction: column;
@@ -35,9 +36,10 @@ body{
 
 .key small{
     position: relative;
-    top: -1.5rem;
+    top: -4rem;
     left: 0;
     text-align: center;
     width: 100%;
     font-size: 0.8rem;
+    font-weight: 300;
 }
