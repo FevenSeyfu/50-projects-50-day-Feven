@@ -50,6 +50,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 10: [Dad Jokes](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Dad Jokes: An app that fetches and displays random jokes from an api with a click of a button , built with HTML, CSS, and JavaScript.
 - Focus point : Javascript -event handling, Api call, Fetch()
+
+### Day 11: [Event KeyCodes](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Event KeyCodes: A mini app when key press that renders details of Key like the key,key code(numerical) and key code for the pressed key, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript -event handling on key down, html-small element
 </details>
 
 ## Folder Structure
