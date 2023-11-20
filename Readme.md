@@ -54,6 +54,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 11: [Event KeyCodes](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Event KeyCodes: A mini app when key press that renders details of Key like the key,key code(numerical) and key code for the pressed key, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript -event handling on key down, html-small element
+
+### Day 12: [FAQ Collapse](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- FAQ Collapse: A mini app that display FAQ with a toggle button to hide and expand details, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript Event Handler, HTML and css-toggle,  fontawesome icons
 </details>
 
 ## Folder Structure
