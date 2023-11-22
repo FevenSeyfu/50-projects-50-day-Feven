@@ -58,6 +58,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 12: [FAQ Collapse](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - FAQ Collapse: A mini app that display FAQ with a toggle button to hide and expand details, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript Event Handler, HTML and css-toggle,  fontawesome icons
+
+### Day 13: [Random Choice Picker](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Random Choice Picker : A mini project that creats tags from input separate each tag when encounter comma,and picks random tag on inter, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript Event Handler(keyup),asynch with setInterval(),setTimeout() HTML and css-style spans
 </details>
 
 ## Folder Structure
