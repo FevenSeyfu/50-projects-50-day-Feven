@@ -3,6 +3,7 @@
 :root {
     --body-bg-color: #C2B280;
     --tags-bg-color: #8090C2;
+    --tags-highlight-color: #80B1C2;
 }
 
 *{
@@ -35,8 +36,8 @@ body{
     padding: 1rem;
     margin: 1rem auto;
 }
-textarea :focus{
-    outline: none;
+textarea:focus{
+    outline: 1px solid;
 }
 
 .tag{
@@ -45,4 +46,8 @@ textarea :focus{
     border-radius: 0.5rem;
     background-color: var(--tags-bg-color);
     margin: 0.5rem;
+}
+
+.highlight{
+    background-color: var(--tags-highlight-color);
 }
