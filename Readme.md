@@ -62,6 +62,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 13: [Random Choice Picker](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Random Choice Picker : A mini project that creats tags from input separate each tag when encounter comma,and picks random tag on inter, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript Event Handler(keyup),asynch with setInterval(),setTimeout() HTML and css-style spans
+
+### Day 14: [Animated Navigation](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Animated Navigation : A  Nav bar that is active or hidden on a click of a button with cool animation to for transition, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript Event Handler(click) and toggel class,HTML and css-animation with transition and transformations
 </details>
 
 ## Folder Structure
