@@ -66,6 +66,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 14: [Animated Navigation](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Animated Navigation : A  Nav bar that is active or hidden on a click of a button with cool animation to for transition, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript Event Handler(click) and toggel class,HTML and css-animation with transition and transformations
+
+### Day 15: [Incrementing Counter](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Incrementing Counter : A UI to diplay social media counts with an incrementing counter starting from zero to total, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript incementing counter,font awesome Icons
 </details>
 
 ## Folder Structure
