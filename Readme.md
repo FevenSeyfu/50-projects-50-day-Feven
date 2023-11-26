@@ -70,6 +70,11 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 15: [Incrementing Counter](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Incrementing Counter : A UI to diplay social media counts with an incrementing counter starting from zero to total, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript incementing counter,font awesome Icons
+
+### Day 16: [Drink Water](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Drink Water : A mini app to track water in take with a click of a button, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript event handling,CSS shapes with border
+
 </details>
 
 ## Folder Structure
