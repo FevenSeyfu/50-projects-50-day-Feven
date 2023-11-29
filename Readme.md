@@ -75,9 +75,13 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 - Drink Water : A mini app to track water in take with a click of a button, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript event handling,CSS shapes with border
 
-### Day 18: [Background SLider](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
-- Background SLider: A UI with background image and a slider to view the focused image, with a left and righ arrow click can slide between images, built with HTML, CSS, and JavaScript.
+### Day 18: [Background Slider](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Background Slider: A UI with background image and a slider to view the focused image, with a left and righ arrow click can slide between images, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript event handling,CSS background image and cover, psudo-element before
+
+### Day 19: [Theme Clock](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Theme Clock: A simple app that displays time and date with both digital and analogy clock integrated with toggle button to change theme to light/ dark on click, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript event handling,Date(),CSS-changing theme
 </details>
 
 ## Folder Structure
