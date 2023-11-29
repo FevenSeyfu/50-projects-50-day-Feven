@@ -1,26 +1,110 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Heebo&display=swap");
 
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
-body{
-    font-family: 'Muli', sans-serif;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    overflow: hidden;
-    background-color: #fff;
-    color: #000;
+body {
+  font-family: "Heebo", sans-serif;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #fff;
+  color: #000;
 }
 
-body.dark{
+body.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+#toggle-btn {
+  background-color: #fff;
+}
+
+.time {
+  font-size: 4rem;
+}
+.time.dark{
     background-color: #000;
     color: #fff;
 }
 
-#toggle-btn{
+.date {
+  color: #aaa;
+  font-size: 1rem;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.dateNum {
+    padding: 3px;
+    margin-left: 3px;
+    background-color: #000;
+    border-radius: 50%;
+}
+
+.dateNum.dark{
     background-color: #fff;
+    color: #000;
+}
+
+.clock-container {
+  position: relative;
+  margin-top: 2rem;
+  height: 50vh;
+  width: 50vw;
+}
+.center-point {
+  background-color: #e74c3c;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 50%;
+  left: 48%;
+  transform: (-50%, -50%);
+  border-radius: 50%;
+}
+
+.hour,
+.minute,
+.second {
+  position: absolute;
+  border-radius: 10px;
+  transform-origin: bottom;
+  background: #000;
+}
+
+.hour.dark,
+.minute.dark {
+  background: #fff;
+}
+
+.hour {
+  width: 1.2%;
+  height: 25%;
+  top: 28%;
+  left: 48.85%;
+  opacity: 0.8;
+}
+
+.minute {
+  width: 1%;
+  height: 35%;
+  top: 17%;
+  left: 48.9%;
+  opacity: 0.8;
+}
+
+.second {
+  width: 0.6%;
+  height: 40%;
+  top: 12%;
+  left: 49.25%;
+  opacity: 0.8;
+  background: #e74c3c;
 }
