@@ -7,4 +7,20 @@
 body{
     font-family: 'Muli', sans-serif;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #fff;
+    color: #000;
+}
+
+body.dark{
+    background-color: #000;
+    color: #fff;
+}
+
+#toggle-btn{
+    background-color: #fff;
 }
