@@ -82,6 +82,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 19: [Theme Clock](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Theme Clock: A simple app that displays time and date with both digital and analogy clock integrated with toggle button to change theme to light/ dark on click, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript event handling,Date(),CSS-changing theme
+
+### Day 20: [Button Ripple Effect](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Button Ripple Effect: A simple ui with centered button, on click button has ripple effect, built with HTML, CSS, and JavaScript.
+- Focus point : Javascript event handling,CSS-animation
 </details>
 
 ## Folder Structure
