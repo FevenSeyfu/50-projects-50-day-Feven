@@ -86,6 +86,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 20: [Button Ripple Effect](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Button Ripple Effect: A simple ui with centered button, on click button has ripple effect, built with HTML, CSS, and JavaScript.
 - Focus point : Javascript event handling,CSS-animation
+
+### Day 21: [Drag and Drop](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Drag and drop: A simple UI with 5 boxes and drag and drop images from box to box , built with HTML, CSS, and JavaScript.
+- Focus point : HTML -drag and Drop ,Javascript event handling and class,CSS-background image
 </details>
 
 ## Folder Structure
