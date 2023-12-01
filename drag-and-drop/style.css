@@ -13,10 +13,10 @@ body{
 }
 
 .empty{
-    height: 145px;
-    width: 145px;
+    height: 150px;
+    width: 150px;
     margin: 10px;
-    border: solid 3px solid;
+    border: solid 3px;
     background: #fff;
 }
 
