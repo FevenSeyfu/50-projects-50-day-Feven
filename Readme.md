@@ -90,6 +90,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 21: [Drag and Drop](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Drag and drop: A simple UI with 5 boxes and drag and drop images from box to box , built with HTML, CSS, and JavaScript.
 - Focus point : HTML -drag and Drop ,Javascript event handling and class,CSS-background image
+
+### Day 21: [Drawing APP](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Drawing APP: A mini app with simple ui that has canvas to draw on and functional operators to increase/decrease stroke size,change color and clear all, built with HTML, CSS, and JavaScript.
+- Focus point : HTML-Canvas,Javascript event handling and getContext(),drwing,circle and lines
 </details>
 
 ## Folder Structure
