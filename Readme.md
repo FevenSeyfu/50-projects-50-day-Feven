@@ -91,9 +91,13 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 - Drag and drop: A simple UI with 5 boxes and drag and drop images from box to box , built with HTML, CSS, and JavaScript.
 - Focus point : HTML -drag and Drop ,Javascript event handling and class,CSS-background image
 
-### Day 21: [Drawing APP](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+### Day 22: [Drawing APP](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Drawing APP: A mini app with simple ui that has canvas to draw on and functional operators to increase/decrease stroke size,change color and clear all, built with HTML, CSS, and JavaScript.
 - Focus point : HTML-Canvas,Javascript event handling and getContext(),drwing,circle and lines
+
+### Day 23: [Kinatic Loader](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- kinatic Loader: A loading animation with triangles rotating in degree,built with HTML, CSS.
+- Focus point : CSS Animation,keyframe
 </details>
 
 ## Folder Structure
