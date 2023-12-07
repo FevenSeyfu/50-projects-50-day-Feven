@@ -98,6 +98,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 23: [Kinatic Loader](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - kinatic Loader: A loading animation with triangles rotating in degree,built with HTML, CSS.
 - Focus point : CSS Animation,keyframe
+
+### Day 24: [Content Placeholder](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Content Placeholder: A user decription card with background placeholder animation diplayed while content loads ,built with HTML, CSS.
+- Focus point : CSS Animation,keyframe and animating backbround position
 </details>
 
 ## Folder Structure
