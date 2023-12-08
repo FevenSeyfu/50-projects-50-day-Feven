@@ -102,6 +102,10 @@ I am Feven Seyfu, and I'll be sharing my progress, code solutions, and insights 
 ### Day 24: [Content Placeholder](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
 - Content Placeholder: A user decription card with background placeholder animation diplayed while content loads ,built with HTML, CSS.
 - Focus point : CSS Animation,keyframe and animating backbround position
+
+### Day 25: [Sticky Navigations](https://github.com/FevenSeyfu/50-projects-50-day-Feven)
+- Sticky Navigation: A single page site with sticky navigation that changes color on scroll ,built with HTML, CSS.
+- Focus point : JS: event handling scroll,CSS-Backgound image,cover
 </details>
 
 ## Folder Structure
