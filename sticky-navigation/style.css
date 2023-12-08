@@ -7,18 +7,16 @@
 }
 
 body{
-    background-color: #fff;
+    color: #222;
     font-family: 'Roboto',Sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    overflow-y: scroll;
+   padding-bottom: 50px;
 }
 
 .navbar{
     display: flex;
+    position: fixed;
+    top: 0;
+    width: 100vw;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -28,9 +26,12 @@ body{
 
 .navbar.active{
     background-color: #fff;
-    color: #222222;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
+.navbar.active a{
+    color: #000;
+}
 .navbar a{
     text-decoration: none;
     color: #fff;
@@ -46,7 +47,7 @@ body{
     list-style-type: none;
 }
 
-.nav-link.active{
+.nav-link.current{
     color: #92342a;
 }
 
