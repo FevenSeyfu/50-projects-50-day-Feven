@@ -34,6 +34,7 @@ body{
     color: #000;
     background-color: #fff;
 }
+
 .nav a{
     text-decoration: none;
     color: #fff;
@@ -49,10 +50,12 @@ body{
     list-style-type: none;
 }
 
+.nav.active .nav-link.current,
 .nav-link.current{
     color: #92342a;
 }
 
+.nav.active .nav-link:hover,
 .nav-link:hover{
     color: #92342a;
     font-size: 1.2rem;
