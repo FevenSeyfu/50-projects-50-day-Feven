@@ -66,7 +66,7 @@ const projects = [
   },
   {
     id: 8,
-    name: "form-wave",
+    name: "form-input-wave",
     img: "assets/Day-8.png",
   },
   {
@@ -86,7 +86,7 @@ const projects = [
   },
   {
     id: 12,
-    name: "faq-collapse",
+    name: "faq",
     img: "assets/Day-12.png",
   },
   {
@@ -110,11 +110,6 @@ const projects = [
     img: "assets/Day-16.png",
   },
   {
-    id: 17,
-    name: "movie-app",
-    img: "assets/Day-17.png",
-  },
-  {
     id: 18,
     name: "background-slider",
     img: "assets/Day-3.png",
@@ -131,7 +126,7 @@ const projects = [
   },
   {
     id: 21,
-    name: "drag-n-drop",
+    name: "drag-and-drop",
     img: "assets/Day-21.png",
   },
   {
@@ -151,7 +146,7 @@ const projects = [
   },
   {
     id: 25,
-    name: "sticky-navbar",
+    name: "sticky-navigation",
     img: "assets/Day-25.png",
   },
 ];
