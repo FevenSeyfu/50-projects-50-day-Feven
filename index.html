@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <title>50 Mini-Projects</title>
   </head>
   <body>
@@ -24,13 +24,61 @@
       </ul>
     </nav>
     <section class="hero" id="hero">
-        <h1 class="main-header">Welcome To My Website</h1>
-        <p class="main-text">
-            This Website documents 50 Mini-Projects completed in 50 days. Created with HTML, CSS, Javascript.
-        </p>
+      <h1 class="main-header">Welcome To My Website</h1>
+      <p class="main-text">
+        This Website documents 50 Mini-Projects completed in 50 days. Created
+        with HTML, CSS, Javascript.
+      </p>
     </section>
     <div class="Projects-container" id="projects"></div>
-    <div class="contact" id="contact"></div>
+    <section class="form-section" id="contact">
+        <h2 class="form-intro">
+          I'm always interested in hearing about the project, so if you have any feedback please get in touch.
+        </h2>
+      <div class="form-cont">
+        <form
+          action="https://formspree.io/f/xoqogpdk"
+          method="post"
+          class="form-container"
+          id="contact-form"
+        >
+          <div class="input-field">
+            <input
+              type="text"
+              class="name-input box"
+              placeholder="Full Name"
+              maxlength="30"
+              required
+            />
+          </div>
+          <div class="input-field">
+            <input
+              type="email"
+              id="email"
+              name="email"
+              class="email-input box"
+              placeholder="Your Email"
+              required
+            />
+          </div>
+          <div class="input-field">
+            <textarea
+              class="box-text box"
+              name="comment"
+              id="comment-input"
+              cols="30"
+              rows="10"
+              placeholder="please write your comment..."
+              maxlength="500"
+              aria-placeholder="Enter text area ..."
+              required
+            ></textarea>
+          </div>
+          <p class="hide" id="alert"></p>
+          <button class="main-btn center" type="submit">Get in touch</button>
+        </form>
+      </div>
+    </section>
     <div class="footer" id="footer"></div>
 
     <script src="script.js"></script>

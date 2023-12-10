@@ -1,141 +1,142 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-body{
-    color: #222;
-    background-color: #222;
-    font-family: 'Roboto',Sans-serif;
-    padding-bottom: 50px;
+body {
+  color: #222;
+  background-color: #222;
+  font-family: "Roboto", Sans-serif;
+  padding-bottom: 50px;
 }
 
-.nav{
-    display: flex;
-    position: fixed;
-    top: 0;
-    width: 100vw;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    background-color: hsl(0, 0%, 13%);
-    padding: 1.5rem 1rem;
+.nav {
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: hsl(0, 0%, 13%);
+  padding: 1.5rem 1rem;
 }
 
-.nav.active{
-    background-color: #fff;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+.nav.active {
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
-.nav.active a{
-    color: #000;
-    background-color: #fff;
+.nav.active a {
+  color: #000;
+  background-color: #fff;
 }
 
-.nav a{
-    text-decoration: none;
-    color: #fff;
-    padding: 0.5rem 1rem;
-    transition: all 0.3s ease-in-out;
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease-in-out;
 }
 
 .nav ul {
-    display: flex;
+  display: flex;
 }
 
-.nav ul li{
-    list-style-type: none;
+.nav ul li {
+  list-style-type: none;
 }
 
 .nav.active .nav-link.current,
-.nav-link.current{
-    color: #92342a;
+.nav-link.current {
+  color: #92342a;
 }
 
 .nav.active .nav-link:hover,
-.nav-link:hover{
-    color: #92342a;
-    font-size: 1.2rem;
+.nav-link:hover {
+  color: #92342a;
+  font-size: 1.2rem;
 }
 
-.hero{
-    background-image: url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom center;
-    height: 100vh;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    position: relative;
-    z-index: -2;
-    margin-bottom: 2rem;
+.hero {
+  background-image: url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  height: 100vh;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  z-index: -2;
+  margin-bottom: 2rem;
 }
 
 .hero::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    margin-bottom: 1.2rem;
-    z-index: -1;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 1.2rem;
+  z-index: -1;
 }
 
 .hero h1 {
-    font-size: 3rem;
-    margin: -1.2rem 0 1.2rem;
+  font-size: 3rem;
+  margin: -1.2rem 0 1.2rem;
 }
 
-.hero p{
-    font-size: 1.2rem;
-    letter-spacing: 1px;
+.hero p {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
 }
 
 /* Projects list section */
-.Projects-container{
-    padding: 2rem;
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 1rem;
+.Projects-container {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1rem;
+  margin: 15% 0;
 }
 
-.project-card{
-    position: relative;
-    width: 100%;
-    height: 10rem;
-    margin: 0 0.5rem;
+.project-card {
+  position: relative;
+  width: 100%;
+  height: 10rem;
+  margin: 0 0.5rem;
 }
 
-.project-card img{
-    display: block;
-    width: 100%;
-    height: 100%;
-    border-radius: 0.5rem;
+.project-card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 0.5rem;
 }
 
-.project-card span.tag{
-   background-color: #92342a;
-   color: #fff;
-   position: absolute;
-   padding: 1rem;
-   top: 0rem;
-   left: 0;
-   border-radius: 0.5rem 0 1rem 0;
+.project-card span.tag {
+  background-color: #92342a;
+  color: #fff;
+  position: absolute;
+  padding: 1rem;
+  top: 0rem;
+  left: 0;
+  border-radius: 0.5rem 0 1rem 0;
 }
 
 .project-card:hover .overlay {
-    opacity: 0.98;
+  opacity: 0.98;
 }
-.project-card .overlay{
+.project-card .overlay {
   opacity: 0;
   position: absolute;
   top: 0;
@@ -152,17 +153,69 @@ body{
   transition: opacity 0.3s ease-in;
 }
 
-.overlay button{
-    margin-top: 1rem;
-    padding: 1rem 0.3rem;
-    background-color: #222;
-    border: #222;
-    color: #92342a;
-    border-radius:5px;
-    font-size: large;
+.overlay button {
+  margin-top: 1rem;
+  padding: 1rem 0.3rem;
+  background-color: #222;
+  border: #222;
+  color: #92342a;
+  border-radius: 5px;
+  font-size: large;
 }
 
-.overlay button a{
-    text-decoration: none;
-    color: #fff;
+.overlay button a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* style form */
+
+.form-section {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  margin-top: 2rem;
+}
+.form-section h2{
+    margin-bottom: 1rem;
+    text-align: center;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  border: transparent;
+  border-bottom: #dbd8d7 solid 0.063rem;
+  font-size: 1rem;
+  padding: 1rem;
+  color: #979493;
+  width: 20rem;
+  border-radius: 5px;
+  margin-bottom:15px;
+}
+
+.box:focus{
+    color: #000;
+}
+
+.main-btn {
+  margin: 1rem 0 0.75rem 0;
+  background-color: #92342a;
+  border: #92342a;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 1rem;
+}
+
+.main-btn:hover {
+  background-color: #222;
+  color: #fff;
+  border: 0.063rem solid #92342a;
 }
