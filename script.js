@@ -163,7 +163,7 @@ projects.forEach(project=>{
         <div class="overlay">
             <h2 class="project-name">${project.name}</h2>
             <button class="btn">
-                <a href="/${project.name}/">Live Demo</a>
+                <a href="https://fevenseyfu.github.io/50-projects-50-day-Feven/${project.name}/">Live Demo</a>
             </button>
         </div>
             `
