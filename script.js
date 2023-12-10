@@ -10,22 +10,7 @@ const fixNavbar = () => {
   }
 };
 
-const checkBoxes = () => {
-  const bottomTrigger = (window.innerHeight / 5) * 4;
-
-  boxes.forEach((box) => {
-    const boxTop = box.getBoundingClientRect().top;
-
-    if (boxTop < bottomTrigger) {
-      box.classList.add("show");
-    } else {
-      box.classList.remove("show");
-    }
-  });
-};
-
 window.addEventListener("scroll", fixNavbar);
-window.addEventListener("scroll", checkBoxes);
 
 // projects cards
 const projects = [
@@ -169,4 +154,3 @@ projects.forEach(project=>{
             `
     ProjectSection.appendChild(projectCard)
 })
-

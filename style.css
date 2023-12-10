@@ -219,3 +219,15 @@ body {
   color: #fff;
   border: 0.063rem solid #92342a;
 }
+
+/* for mobile */
+@media (max-width: 768px) {
+    .Projects-container {
+        padding: 2rem;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 1rem;
+        margin: 15% 0;
+    }
+    
+}
