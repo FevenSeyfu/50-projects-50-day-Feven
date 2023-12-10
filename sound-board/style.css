@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+:root {
+    --primary-color: #a164df;
+    --secondary-secondary: #663399;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--primary-color);
+    font-family: 'Muli', sans-serif;
+    overflow: hidden;
+    color: #fff;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-gap: 1rem;
+    box-sizing: border-box;
+    width: 70vw;
+    height: 200px;
+    margin: 20% auto;
+}
+
+.card{
+    background-color: var(--secondary-secondary);
+    width: 7rem;
+    height: 4rem;
+    text-align: center;
+    border-radius: 1rem;
+    padding-top: 1rem;
+    font-size: larger;
+}
+
