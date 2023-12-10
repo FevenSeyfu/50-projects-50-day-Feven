@@ -127,7 +127,7 @@ Hi, I'm Feven, a junior full-stack developer with a passion for coding. Experien
 
 ## Acknowledgements
 
-Special thanks to Brad Traversy for creating and sharing this challenge!
+Special thanks to Brad Traversy for creating and sharing this course!
 
 ## License
 
