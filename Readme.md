@@ -1,3 +1,6 @@
+![Screenshot from 2023-12-10 23-41-27](https://github.com/FevenSeyfu/50-projects-50-day-Feven/assets/91325016/8e6640ab-4bf6-40e3-bd83-0d92767fffb7)
+
+![Screenshot from 2023-12-10 23-42-07](https://github.com/FevenSeyfu/50-projects-50-day-Feven/assets/91325016/82e67aa6-6e46-4f3d-88cc-044b6c52a2be)
 # 50 Projects In 50 Days by Feven Seyfu
 
 This repository documents my journey through the "50 Projects In 50 Days" challenge. This coding challenge involves creating 50 small web projects using HTML, CSS, and JavaScript, following the curriculum provided by Brad Traversy.
