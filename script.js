@@ -134,6 +134,11 @@ const projects = [
     name: "sticky-navigation",
     img: "assets/Day-25.png",
   },
+  {
+    id: 26,
+    name: "double-vertical-slider",
+    img: "assets/Day-26.png",
+  },
 ];
 
 const projectBox =  document.getElementById('box')
